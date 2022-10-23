@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ouolim
 - 🏙️ I am 18 year old programmer from České Budějovice in Czech republic
 - 👨‍🎓 I am studying seventh year at the general grammar school [GJVJ](https://gjvj.cz).
-- 🌱 I’m currently teaching programming lessons in my gymnasium
-- 💞️ I’m looking to collaborate on interesting python projects
+- 🌱 I’m currently teaching programming lessons in my grammar school
 - 📫 How to reach me:
 - - email: ouolim@eideo.cz
 
