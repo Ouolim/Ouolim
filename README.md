@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ouolim
-- 🏙️ I am 20 year old programmer from České Budějovice in Czech republic
+- 🏙️ I am 21 year old programmer from České Budějovice in Czech republic
 - 👨‍🎓 I am studying Informatics at Charles University, Faculty of Mathematics and Physics.
 - 📫 How to reach me:
 - - email: ouolim@eideo.cz
